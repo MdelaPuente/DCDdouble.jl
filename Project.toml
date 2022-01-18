@@ -1,0 +1,7 @@
+name = "DCDdouble"
+uuid = "9b588949-f2db-4738-861a-a6d617762fcb"
+authors = ["Miguel de la Puente <miguel.dlp@hotmail.es>"]
+version = "0.1.0"
+
+[deps]
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
