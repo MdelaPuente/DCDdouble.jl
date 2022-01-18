@@ -11,7 +11,7 @@ is in Float64 precision by default (instead of Float32).
 ## Installation
 
 ```julia
-pkg> add https://github.com/MdelaPuente/Phd_project/Julia_packages/DCDdouble.jl
+pkg> add https://github.com/MdelaPuente/DCDdouble.jl
 ```
 
 ## Usage
